@@ -1,0 +1,5 @@
+4 4
+E X X X
+D X X X
+I N T X
+N X X X
